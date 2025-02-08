@@ -2,5 +2,5 @@
 
 a=int (input("qual o primeiro valor? "))
 b=int (input("qual o segundo valor? "))
-resul = (a * b)
+resul = (a + b)
 print("o total deu",resul)
